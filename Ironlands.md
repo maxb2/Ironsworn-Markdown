@@ -108,4 +108,4 @@ blind hate from destroying more than just the beast?*
 ## Map Legend
 
 
-![Ironlands Map](https://gitlab.com/somnus50/ironsworn-campaign/raw/master/Ironlands-Map.jpg?inline=false)
+![Ironlands Map]()
